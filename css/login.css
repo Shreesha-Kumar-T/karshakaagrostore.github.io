@@ -1,0 +1,84 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#page{
+    width: 100vw;
+    height: 100vh;
+    padding-top: 10vh;
+    background-color: #88b5ff;
+    display: flex;
+    justify-content: center;
+}
+#logo{
+    margin: 0;
+    padding: 0;
+    align-content: center;
+    height: 8vh;
+    width:10vw;
+    margin-left: 1vw;
+    border-radius: 10px;
+    background-color: white;
+    position: absolute;
+    left:1.5vw;
+    top:2vh;
+}
+.login_signup{
+    width:20vw;
+    height: 80vh;
+    padding: 5vh 10vw 5vh 5vw;
+    background-color: white;
+    border-radius: 8px;
+    font-size: 20px;
+}
+#sp{
+    font-size:25px;
+    font-weight: bold;
+}
+.fields{
+    border-radius: 6px;
+    height: 35px;
+    width: 90%;
+}
+.subbtn{
+    background-color: rgba(255, 17, 0, 0.918);
+    color: white;
+    height: 35px;
+    width: 90%;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 80%;
+}
+p{
+    padding-right: 2vw;
+    text-align:right;
+    font-size: medium;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a span{
+    font-weight: normal;
+    font-size: medium;
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    font-weight: bold;
+}
+a img{
+    width:1vw;
+    height:2vh;
+}
+a img:hover{
+    width:1.5vw;
+}
+a span:hover{
+    font-weight: bold;
+}
+#note{
+    font-size: medium;
+}
+

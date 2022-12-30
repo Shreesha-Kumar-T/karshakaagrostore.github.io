@@ -1,0 +1,20 @@
+.all-center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#order{
+    background-color:white;
+    border: 2px solid skyblue;
+    border-radius: 8px;
+    width: 160px;
+    height: 40px;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1.2rem;
+}
+#order:hover{
+    color: blueviolet;
+    width: 160px;
+    height: 40px;
+    font-size: 1.1rem;
+}
